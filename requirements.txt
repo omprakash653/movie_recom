@@ -1,0 +1,5 @@
+### dependency
+streamlit
+joblib
+### local packages -
+# -e . 
